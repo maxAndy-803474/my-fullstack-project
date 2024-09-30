@@ -1,8 +1,8 @@
 # my-fullstack-project
 
-https://ma.opsteam.space/api - backend
-https://ma.opsteam.space/frontend - frontend
-https://ma.opsteam.space/ - phpmyadmin
+- [backend](https://ma.opsteam.space/api)
+- [frontend](https://ma.opsteam.space/frontend)
+- [phpmyadmin](https://ma.opsteam.space/)
 
 # Instructions for Deploying the my-fullstack-project
 
