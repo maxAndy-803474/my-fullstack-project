@@ -104,6 +104,3 @@ After successfully starting, you can access the project at: [https://test.com](h
 docker-compose logs
 ```
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
