@@ -4,7 +4,7 @@ https://ma.opsteam.space/api - backend
 https://ma.opsteam.space/frontend - frontend
 https://ma.opsteam.space/ - phpmyadmin
 
-# Instructions for Deploying the Project on a New Server
+# Instructions for Deploying the my-fullstack-project
 
 This document provides instructions for deploying the project on a new server using Docker and Docker Compose.
 
